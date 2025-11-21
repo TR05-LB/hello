@@ -1,1 +1,0 @@
-"""Steganography backend package."""
